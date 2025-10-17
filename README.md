@@ -159,10 +159,3 @@ Developed as a practical exploration of **Retrieval-Augmented Generation (RAG)**
 This project is open for educational and research use.
 Please check each model or dataset’s license before deployment.
 
-```
-
-Would you like me to format it as a downloadable `README.md` file ready to upload to GitHub?
-```
-
-
-Would you like me to integrate this description neatly into your README.md file (above or below the overview section)?
